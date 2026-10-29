@@ -1,0 +1,13 @@
+{
+  "name": "nimbra",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Scroll-driven product site for a fictional device brand, built as one HTML file.",
+  "scripts": { "build": "node build.js" },
+  "devDependencies": {
+    "@babel/standalone": "7.24.7",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "wabt": "1.0.36"
+  }
+}
